@@ -1,0 +1,170 @@
+export const productData = [
+  {
+    id: "1",
+    img: "https://orebi-shopping-madeby-masum.netlify.app/static/media/spfOne.af2c5aa8d8015ffcccf4.webp",
+    title: "Cap for Boys",
+    badge: "New",
+    color: "Gray",
+    price: "35",
+    category: "Men",
+  },
+  {
+    id: "2",
+    img: "https://orebi-shopping-madeby-masum.netlify.app/static/media/spfTwo.3dd358b9c31a7587b4d9.webp",
+    title: "Tea Table",
+    badge: "-10%",
+    color: "Gray",
+    price: "180",
+    category: "Furniture",
+  },
+  {
+    id: "3",
+    img: "https://orebi-shopping-madeby-masum.netlify.app/static/media/spfThree.226da6ea085a91db0352.webp",
+    title: "Head Phone",
+    badge: "-20%",
+    color: "Red",
+    price: "230",
+    category: "Electronics",
+  },
+  {
+    id: "4",
+    img: "https://orebi-shopping-madeby-masum.netlify.app/static/media/bestSellerTwo.c2641a76c189fcc71670.webp",
+    title: "New Backpack",
+    color: "Gray",
+    price: "150",
+    category: "Bags",
+  },
+  {
+    id: "5",
+    img: "https://orebi-shopping-madeby-masum.netlify.app/static/media/bestSellerTwo.c2641a76c189fcc71670.webp",
+    title: "New Backpack",
+    color: "Gray",
+    price: "150",
+    category: "Bags",
+  },
+  {
+    id: "6",
+    img: "https://orebi-shopping-madeby-masum.netlify.app/static/media/bestSellerOne.988208d74cc332fccc11.webp",
+    title: "Flower Base",
+    color: "Black and White",
+    price: "60",
+    category: "Bags",
+  },
+  {
+    id: "7",
+    img: "https://orebi-shopping-madeby-masum.netlify.app/static/media/spfFour.d005441cba54d7214bf7.webp",
+    title: "Women Sun glasses",
+    color: "Black",
+    price: "220",
+    category: "Women",
+  },
+  {
+    id: "8",
+    img: "https://orebi-shopping-madeby-masum.netlify.app/static/media/newArrOne.5982a995e5c312914fe6.webp",
+    title: "Round Table Clock",
+    color: "Black",
+    price: "50",
+    category: "Electronics",
+  },
+  {
+    id: "9",
+    img: "https://orebi-shopping-madeby-masum.netlify.app/static/media/bestSellerFour.0b34fdc5232f2dcf997b.webp",
+    title: "Travel Bag",
+    color: "Black",
+    price: "300",
+    badge: "New",
+    category: "Bags",
+  },
+  {
+    id: "10",
+    img: "https://orebi-shopping-madeby-masum.netlify.app/static/media/bestSellerThree.8caffcd1cd1c67b4a340.webp",
+    title: "Household materials",
+    color: "Mixed",
+    badge: "New",
+    price: "300",
+    category: "Bags",
+  },
+  {
+    id: "11",
+    img: "https://orebi-shopping-madeby-masum.netlify.app/static/media/newArrTwo.bdc7d9372116bdf40cc4.webp",
+    title: "Smart Watch",
+    badge: "New",
+    color: "Black",
+    price: "240",
+    category: "Bags",
+  },
+  {
+    id: "11",
+    img: "https://orebi-shopping-madeby-masum.netlify.app/static/media/newArrFour.b8a5fda6839f2f0b1eaa.webp",
+    title: "Funny toys for babies",
+    color: "mixed",
+    price: "70",
+    category: "Toys",
+  },
+  {
+    id: "12",
+    img: "https://m.media-amazon.com/images/I/61Q-xaqufQL._AC_SX425_.jpg",
+    title: "Motorola Moto G Stylus",
+    color: "mixed",
+    price: "70",
+    category: "Electronics",
+    subCategory: "Mobile",
+  },
+];
+export const menuItemData = [
+  {
+    name: "Home",
+    link: "/",
+  },
+  {
+    name: "Shop",
+    link: "/shop",
+  },
+  {
+    name: "About",
+    link: "/",
+  },
+  {
+    name: "Contacts",
+    link: "/",
+  },
+  {
+    name: "Journal",
+    link: "/",
+  },
+];
+
+export const categoryData = [
+  {
+    name: "Accessories",
+    link: "/",
+  },
+  {
+    name: "Men",
+    link: "/",
+  },
+  {
+    name: "Women",
+    link: "/",
+  },
+  {
+    name: "Furniture",
+    link: "/",
+  },
+  {
+    name: "Electronics",
+    link: "/",
+  },
+  {
+    name: "Toys",
+    link: "/",
+  },
+  {
+    name: "Bags",
+    link: "/",
+  },
+  {
+    name: "Home appliances",
+    link: "/",
+  },
+];

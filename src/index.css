@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  overflow-x: hidden;
+}
+.bannerDot li {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 14px;
+}
